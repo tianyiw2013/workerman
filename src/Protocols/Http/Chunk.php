@@ -26,7 +26,7 @@ class Chunk
      *
      * @var string
      */
-    protected $_buffer = null;
+    protected $_buffer;
 
     /**
      * Chunk constructor.
