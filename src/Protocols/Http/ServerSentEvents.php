@@ -24,7 +24,7 @@ class ServerSentEvents
      * Data.
      * @var array
      */
-    protected $_data = null;
+    protected $_data;
 
     /**
      * ServerSentEvents constructor.
