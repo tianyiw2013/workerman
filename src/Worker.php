@@ -535,7 +535,7 @@ class Worker
      *
      * @var string
      */
-    protected $workerId = null;
+    protected $workerId;
 
     /**
      * Run all worker instances.
